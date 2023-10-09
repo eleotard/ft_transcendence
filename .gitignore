@@ -1,7 +1,4 @@
 node_modules
-project/nodes_modules
-package.json
-package-lock.json
-project/prisma/migrations
-project/dist
+project/node_modules
+
 
