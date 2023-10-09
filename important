@@ -1,0 +1,8 @@
+
+#pour installer node
+https://github.com/nodesource/distributions/blob/master/README.md#deb
+
+#pour desinstaller
+apt-get purge nodejs &&\
+rm -r /etc/apt/sources.list.d/nodesource.list &&\
+rm -r /etc/apt/keyrings/nodesource.gpg
